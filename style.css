@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Noto+Sans+Imperial+Aramaic&family=Sevillana&display=swap');
+h1{
+    color:#ff8c00;
+}
+h2{
+    color:#0000cd;
+}
+body{
+    background-color:#87cefa;
+}
+*{
+    font-family: "Sevillana", cursive;
+}
